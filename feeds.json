@@ -1,0 +1,20 @@
+{
+    "feeds": [
+        {
+            "name": "Grafikart",
+            "url": "https://feeds.feedburner.com/Grafikart"
+        },
+        {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/rss/frontpage"
+        },
+        {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/feed"
+        },
+        {
+            "name": "Lux",
+            "url": "https://www.lux.camera/rss/"
+        }
+    ]
+}
